@@ -1,4 +1,6 @@
-mysql:8.0.37
-mysql:8.3.0
-mysql:8.2.0
-mysql:8.1.0
+redis:7.2.5
+redis:7.2
+redis:7.0.15
+redis:6.2.14
+
+
