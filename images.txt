@@ -1,8 +1,6 @@
-nginx:1.27.0
-nginx:1.26.1
-nacos:v2.3.2
-nacos:v2.2.3
-nacos:v2.1.2
+nacos/nacos-server:v2.3.2
+nacos/nacos-server:v2.2.3
+nacos/nacos-server:v2.1.2
 
 
 
