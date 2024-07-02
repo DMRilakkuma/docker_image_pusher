@@ -1,3 +1,4 @@
-postgres:16.3-alpine
+jenkins:2.452.2-lts
+
 
  
