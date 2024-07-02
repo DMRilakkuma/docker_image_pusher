@@ -1,16 +1,1 @@
-nacos/nacos-server:v2.2.1
-nacos/nacos-server:v2.3.2
-rabbitmq:3.13-management
-rabbitmq:3-management
-rabbitmq:3.13.3
-rabbitmq:3.12.14-management
-rabbitmq:3.12
-rabbitmq:3.12-management
-elasticsearch:7.17.22
-elasticsearch:8.14.1
-elasticsearch:8.13.4
-elasticsearch:7.17.21
-elasticsearch:8.10.2
-
-
-
+rabbitmq:3.13.3-management-alpine
