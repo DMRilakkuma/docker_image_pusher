@@ -1,5 +1,15 @@
-mongo:8.0.0-rc11
-mongo-express:1.0.2-20-alpine3.19
+bitnami/zookeeper:3.8.0
+bitnami/kafka:3.6.2
+sheepkiller/kafka-manager:latest
+apache/skywalking-oap-server:9.7.0
+apache/skywalking-ui:9.7.0
+prom/prometheus:v2.40.1
+grafana/grafana:9.2.4
+apache/shardingsphere-proxy:5.4.0
+apacherocketmq/rocketmq-dashboard:latest
+apache/rocketmq:5.2.0
+logstash:7.17.6
+kibana:7.17.6
 
 
  
