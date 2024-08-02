@@ -1,2 +1,2 @@
-1panel/openresty:1.21.4.3-3-3-focal
+bellsoft/liberica-openjdk-debian:21.0.3-cds
  
