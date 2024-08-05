@@ -1,1 +1,1 @@
-redis:7.4.0
+jenkinszh/jenkins-zh:2.396
