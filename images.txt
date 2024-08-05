@@ -1,2 +1,1 @@
-bellsoft/liberica-openjdk-debian:21.0.3-cds
- 
+jenkins/jenkins:2.452.3-lts
