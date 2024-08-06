@@ -1,1 +1,3 @@
-jenkinszh/jenkins-zh:2.396
+nacos/nacos-server:v2.4.0
+rabbitmq:3.13.6-management-alpine
+elasticsearch:8.14.3
