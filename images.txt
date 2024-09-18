@@ -1,4 +1,1 @@
-maxkeytop/maxkey-frontend:4.0.2
-maxkeytop/maxkey:4.0.2
-maxkeytop/maxkey-mgt:4.0.2
-maxkeytop/maxkey-mgt-frontend:4.0.2
+node:20.17.0-alpine
