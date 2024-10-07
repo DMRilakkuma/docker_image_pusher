@@ -1,3 +1,1 @@
-elasticsearch:7.17.6
-kibana:7.17.6
-logstash:7.17.6
+mysql:8.0.32-debian
