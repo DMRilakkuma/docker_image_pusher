@@ -1,1 +1,1 @@
-mysql:8.0.32-debian
+canal/canal-server:v1.1.8
